@@ -25,5 +25,8 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj",
+    "palettle": [
+        "#ffd076"
+    ]
 }
